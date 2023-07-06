@@ -1,0 +1,15 @@
+C:\Users\AMIN\source\repos\SystemProgrammingHw2\SystemProgrammingHw2\bin\Debug\net6.0\SystemProgrammingHw2.exe
+C:\Users\AMIN\source\repos\SystemProgrammingHw2\SystemProgrammingHw2\bin\Debug\net6.0\SystemProgrammingHw2.deps.json
+C:\Users\AMIN\source\repos\SystemProgrammingHw2\SystemProgrammingHw2\bin\Debug\net6.0\SystemProgrammingHw2.runtimeconfig.json
+C:\Users\AMIN\source\repos\SystemProgrammingHw2\SystemProgrammingHw2\bin\Debug\net6.0\SystemProgrammingHw2.dll
+C:\Users\AMIN\source\repos\SystemProgrammingHw2\SystemProgrammingHw2\bin\Debug\net6.0\SystemProgrammingHw2.pdb
+C:\Users\AMIN\source\repos\SystemProgrammingHw2\SystemProgrammingHw2\obj\Debug\net6.0\SystemProgrammingHw2.csproj.AssemblyReference.cache
+C:\Users\AMIN\source\repos\SystemProgrammingHw2\SystemProgrammingHw2\obj\Debug\net6.0\SystemProgrammingHw2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AMIN\source\repos\SystemProgrammingHw2\SystemProgrammingHw2\obj\Debug\net6.0\SystemProgrammingHw2.AssemblyInfoInputs.cache
+C:\Users\AMIN\source\repos\SystemProgrammingHw2\SystemProgrammingHw2\obj\Debug\net6.0\SystemProgrammingHw2.AssemblyInfo.cs
+C:\Users\AMIN\source\repos\SystemProgrammingHw2\SystemProgrammingHw2\obj\Debug\net6.0\SystemProgrammingHw2.csproj.CoreCompileInputs.cache
+C:\Users\AMIN\source\repos\SystemProgrammingHw2\SystemProgrammingHw2\obj\Debug\net6.0\SystemProgrammingHw2.dll
+C:\Users\AMIN\source\repos\SystemProgrammingHw2\SystemProgrammingHw2\obj\Debug\net6.0\refint\SystemProgrammingHw2.dll
+C:\Users\AMIN\source\repos\SystemProgrammingHw2\SystemProgrammingHw2\obj\Debug\net6.0\SystemProgrammingHw2.pdb
+C:\Users\AMIN\source\repos\SystemProgrammingHw2\SystemProgrammingHw2\obj\Debug\net6.0\SystemProgrammingHw2.genruntimeconfig.cache
+C:\Users\AMIN\source\repos\SystemProgrammingHw2\SystemProgrammingHw2\obj\Debug\net6.0\ref\SystemProgrammingHw2.dll

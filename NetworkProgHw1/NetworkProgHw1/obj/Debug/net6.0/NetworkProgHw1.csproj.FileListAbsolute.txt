@@ -1,0 +1,15 @@
+C:\Users\AMIN\source\repos\NetworkProgHw1\NetworkProgHw1\obj\Debug\net6.0\NetworkProgHw1.csproj.AssemblyReference.cache
+C:\Users\AMIN\source\repos\NetworkProgHw1\NetworkProgHw1\obj\Debug\net6.0\NetworkProgHw1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AMIN\source\repos\NetworkProgHw1\NetworkProgHw1\obj\Debug\net6.0\NetworkProgHw1.AssemblyInfoInputs.cache
+C:\Users\AMIN\source\repos\NetworkProgHw1\NetworkProgHw1\obj\Debug\net6.0\NetworkProgHw1.AssemblyInfo.cs
+C:\Users\AMIN\source\repos\NetworkProgHw1\NetworkProgHw1\obj\Debug\net6.0\NetworkProgHw1.csproj.CoreCompileInputs.cache
+C:\Users\AMIN\source\repos\NetworkProgHw1\NetworkProgHw1\bin\Debug\net6.0\NetworkProgHw1.exe
+C:\Users\AMIN\source\repos\NetworkProgHw1\NetworkProgHw1\bin\Debug\net6.0\NetworkProgHw1.deps.json
+C:\Users\AMIN\source\repos\NetworkProgHw1\NetworkProgHw1\bin\Debug\net6.0\NetworkProgHw1.runtimeconfig.json
+C:\Users\AMIN\source\repos\NetworkProgHw1\NetworkProgHw1\bin\Debug\net6.0\NetworkProgHw1.dll
+C:\Users\AMIN\source\repos\NetworkProgHw1\NetworkProgHw1\bin\Debug\net6.0\NetworkProgHw1.pdb
+C:\Users\AMIN\source\repos\NetworkProgHw1\NetworkProgHw1\obj\Debug\net6.0\NetworkProgHw1.dll
+C:\Users\AMIN\source\repos\NetworkProgHw1\NetworkProgHw1\obj\Debug\net6.0\refint\NetworkProgHw1.dll
+C:\Users\AMIN\source\repos\NetworkProgHw1\NetworkProgHw1\obj\Debug\net6.0\NetworkProgHw1.pdb
+C:\Users\AMIN\source\repos\NetworkProgHw1\NetworkProgHw1\obj\Debug\net6.0\NetworkProgHw1.genruntimeconfig.cache
+C:\Users\AMIN\source\repos\NetworkProgHw1\NetworkProgHw1\obj\Debug\net6.0\ref\NetworkProgHw1.dll

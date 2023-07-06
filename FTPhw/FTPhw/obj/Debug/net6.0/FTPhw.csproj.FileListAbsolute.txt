@@ -1,0 +1,15 @@
+C:\Users\AMIN\source\repos\FTPhw\FTPhw\bin\Debug\net6.0\FTPhw.exe
+C:\Users\AMIN\source\repos\FTPhw\FTPhw\bin\Debug\net6.0\FTPhw.deps.json
+C:\Users\AMIN\source\repos\FTPhw\FTPhw\bin\Debug\net6.0\FTPhw.runtimeconfig.json
+C:\Users\AMIN\source\repos\FTPhw\FTPhw\bin\Debug\net6.0\FTPhw.dll
+C:\Users\AMIN\source\repos\FTPhw\FTPhw\bin\Debug\net6.0\FTPhw.pdb
+C:\Users\AMIN\source\repos\FTPhw\FTPhw\obj\Debug\net6.0\FTPhw.csproj.AssemblyReference.cache
+C:\Users\AMIN\source\repos\FTPhw\FTPhw\obj\Debug\net6.0\FTPhw.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AMIN\source\repos\FTPhw\FTPhw\obj\Debug\net6.0\FTPhw.AssemblyInfoInputs.cache
+C:\Users\AMIN\source\repos\FTPhw\FTPhw\obj\Debug\net6.0\FTPhw.AssemblyInfo.cs
+C:\Users\AMIN\source\repos\FTPhw\FTPhw\obj\Debug\net6.0\FTPhw.csproj.CoreCompileInputs.cache
+C:\Users\AMIN\source\repos\FTPhw\FTPhw\obj\Debug\net6.0\FTPhw.dll
+C:\Users\AMIN\source\repos\FTPhw\FTPhw\obj\Debug\net6.0\refint\FTPhw.dll
+C:\Users\AMIN\source\repos\FTPhw\FTPhw\obj\Debug\net6.0\FTPhw.pdb
+C:\Users\AMIN\source\repos\FTPhw\FTPhw\obj\Debug\net6.0\FTPhw.genruntimeconfig.cache
+C:\Users\AMIN\source\repos\FTPhw\FTPhw\obj\Debug\net6.0\ref\FTPhw.dll

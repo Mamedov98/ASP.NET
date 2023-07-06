@@ -1,0 +1,8 @@
+C:\Users\AMIN\source\repos\ShowRoom\ShowRoom\obj\Debug\net6.0-windows\ShowRooom.csproj.AssemblyReference.cache
+C:\Users\AMIN\source\repos\ShowRoom\ShowRoom\obj\Debug\net6.0-windows\ShowRooms.Form1.resources
+C:\Users\AMIN\source\repos\ShowRoom\ShowRoom\obj\Debug\net6.0-windows\ShowRoom.Form2.resources
+C:\Users\AMIN\source\repos\ShowRoom\ShowRoom\obj\Debug\net6.0-windows\ShowRooom.csproj.GenerateResource.cache
+C:\Users\AMIN\source\repos\ShowRoom\ShowRoom\obj\Debug\net6.0-windows\ShowRooom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AMIN\source\repos\ShowRoom\ShowRoom\obj\Debug\net6.0-windows\ShowRooom.AssemblyInfoInputs.cache
+C:\Users\AMIN\source\repos\ShowRoom\ShowRoom\obj\Debug\net6.0-windows\ShowRooom.AssemblyInfo.cs
+C:\Users\AMIN\source\repos\ShowRoom\ShowRoom\obj\Debug\net6.0-windows\ShowRooom.csproj.CoreCompileInputs.cache

@@ -1,0 +1,57 @@
+﻿USE STOCKFORPRODUCT
+
+
+
+CREATE TABLE NAME
+(
+ Id INT  IDENTITY PRIMARY KEY,
+ Name nvarchar(20) not null,
+
+)
+
+CREATE TABLE TYPE
+
+(
+  Id int IDENTITY PRIMARY KEY,
+  Type nvarchar(20) not null 
+
+)
+
+
+alter table TYPE ADD FOREIGN KEY(Id) REFERENCES NAME(Id)
+
+
+
+CREATE TABLE SUPPLIER
+(
+
+Id int IDENTITY PRIMARY KEY,
+SupplierName nvarchar(MAX) not null,
+)
+
+CREATE TABLE PRDODUCTQUALITY
+(
+
+Id int IDENTITY PRIMARY KEY,
+Quantity int not null default 0
+)
+
+
+CREATE TABLE COSTPRICE
+
+(
+Id int IDENTITY PRIMARY KEY,
+PRICE money not null check( PRICE > 0)
+
+)
+
+
+CREATE TABLE DATADELIVERY
+
+(
+Id int IDENTITY PRIMARY KEY,
+DATA DATETIME 
+
+
+)
+

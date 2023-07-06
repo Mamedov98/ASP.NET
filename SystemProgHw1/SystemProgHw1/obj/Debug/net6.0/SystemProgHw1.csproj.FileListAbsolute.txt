@@ -1,0 +1,15 @@
+C:\Users\AMIN\source\repos\SystemProgHw1\SystemProgHw1\bin\Debug\net6.0\SystemProgHw1.exe
+C:\Users\AMIN\source\repos\SystemProgHw1\SystemProgHw1\bin\Debug\net6.0\SystemProgHw1.deps.json
+C:\Users\AMIN\source\repos\SystemProgHw1\SystemProgHw1\bin\Debug\net6.0\SystemProgHw1.runtimeconfig.json
+C:\Users\AMIN\source\repos\SystemProgHw1\SystemProgHw1\bin\Debug\net6.0\SystemProgHw1.dll
+C:\Users\AMIN\source\repos\SystemProgHw1\SystemProgHw1\bin\Debug\net6.0\SystemProgHw1.pdb
+C:\Users\AMIN\source\repos\SystemProgHw1\SystemProgHw1\obj\Debug\net6.0\SystemProgHw1.csproj.AssemblyReference.cache
+C:\Users\AMIN\source\repos\SystemProgHw1\SystemProgHw1\obj\Debug\net6.0\SystemProgHw1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AMIN\source\repos\SystemProgHw1\SystemProgHw1\obj\Debug\net6.0\SystemProgHw1.AssemblyInfoInputs.cache
+C:\Users\AMIN\source\repos\SystemProgHw1\SystemProgHw1\obj\Debug\net6.0\SystemProgHw1.AssemblyInfo.cs
+C:\Users\AMIN\source\repos\SystemProgHw1\SystemProgHw1\obj\Debug\net6.0\SystemProgHw1.csproj.CoreCompileInputs.cache
+C:\Users\AMIN\source\repos\SystemProgHw1\SystemProgHw1\obj\Debug\net6.0\SystemProgHw1.dll
+C:\Users\AMIN\source\repos\SystemProgHw1\SystemProgHw1\obj\Debug\net6.0\refint\SystemProgHw1.dll
+C:\Users\AMIN\source\repos\SystemProgHw1\SystemProgHw1\obj\Debug\net6.0\SystemProgHw1.pdb
+C:\Users\AMIN\source\repos\SystemProgHw1\SystemProgHw1\obj\Debug\net6.0\SystemProgHw1.genruntimeconfig.cache
+C:\Users\AMIN\source\repos\SystemProgHw1\SystemProgHw1\obj\Debug\net6.0\ref\SystemProgHw1.dll

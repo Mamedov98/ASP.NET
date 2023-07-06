@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdoNetHomework2", "AdoNetHomework2\AdoNetHomework2.csproj", "{7E83F9C5-F7E0-4C0B-AB90-86B8B9F789DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E83F9C5-F7E0-4C0B-AB90-86B8B9F789DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E83F9C5-F7E0-4C0B-AB90-86B8B9F789DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E83F9C5-F7E0-4C0B-AB90-86B8B9F789DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E83F9C5-F7E0-4C0B-AB90-86B8B9F789DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {645CF1B9-3B74-4953-A4DB-6DE8629952F5}
+	EndGlobalSection
+EndGlobal
