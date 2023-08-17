@@ -1,0 +1,17 @@
+﻿@model CurrencyConverterApp.Models.CurrencyConverter
+
+
+<div>
+    <form asp-controller="CurrencyConverter" asp-action="GetCurrency" method="post">
+        <input name="Amount" type="text" />
+        <button type="submit">Конвертировать</button>
+    </form>
+    @if (Model != null)
+    {
+        <div>
+            <p>Курс ЕВРО: @Model.EUR --------> @Decimal.Round(Model.ConvertToRUB(Model.EUR), 2):C РУБЛЕЙ</p>
+            <p>Курс ДОЛЛАРА: @Model.USD --------> @Decimal.Round(Model.ConvertToRUB(Model.USD), 2):C РУБЛЕЙ</p>
+            <p>Курс ЛИРЫ: @Model.TRY --------> @Decimal.Round(Model.ConvertToRUB(Model.TRY), 2):C РУБЛЕЙ</p>
+        </div>
+    }
+</div>
