@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Im/rlbhMZpe8ApxSnwdeDoyClGTUCRw5wkLkwIFRDFAsNBg9VFA1dfimxXEZGhwgRWrX6pi8LKRwpBpAJRIFwQ==",
+  "dgSpecHash": "c0z/3+WpStUu4xiYDGobcPvqw91DQm2vGZgpvynE2MjPCOs1WazIvvhqs7SVQ173wGJD2cG7Bvfg5OxOh8dDZA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\AMIN\\source\\repos\\FBAS_4217_RU-ASP\\Projects\\FluentValidation\\FluentValidation\\FluentValidation.csproj",
+  "projectFilePath": "C:\\Users\\AMIN\\source\\repos\\FluentValidation\\FluentValidation\\FluentValidation.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\AMIN\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\AMIN\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

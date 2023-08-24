@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\FluentValidation",
+    "\\FluentValidation\\Data",
+    "\\FluentValidation\\Data\\DbContext",
+    "\\FluentValidation\\Data\\Models",
+    "\\FluentValidation\\Migrations",
+    "\\FluentValidation\\Models"
+  ],
+  "PreviewInSolutionExplorer": false
+}

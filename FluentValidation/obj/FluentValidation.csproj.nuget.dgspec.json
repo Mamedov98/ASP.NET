@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\AMIN\\source\\repos\\FBAS_4217_RU-ASP\\Projects\\FluentValidation\\FluentValidation\\FluentValidation.csproj": {}
+    "C:\\Users\\AMIN\\source\\repos\\FluentValidation\\FluentValidation\\FluentValidation.csproj": {}
   },
   "projects": {
-    "C:\\Users\\AMIN\\source\\repos\\FBAS_4217_RU-ASP\\Projects\\FluentValidation\\FluentValidation\\FluentValidation.csproj": {
+    "C:\\Users\\AMIN\\source\\repos\\FluentValidation\\FluentValidation\\FluentValidation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\AMIN\\source\\repos\\FBAS_4217_RU-ASP\\Projects\\FluentValidation\\FluentValidation\\FluentValidation.csproj",
+        "projectUniqueName": "C:\\Users\\AMIN\\source\\repos\\FluentValidation\\FluentValidation\\FluentValidation.csproj",
         "projectName": "FluentValidation",
-        "projectPath": "C:\\Users\\AMIN\\source\\repos\\FBAS_4217_RU-ASP\\Projects\\FluentValidation\\FluentValidation\\FluentValidation.csproj",
+        "projectPath": "C:\\Users\\AMIN\\source\\repos\\FluentValidation\\FluentValidation\\FluentValidation.csproj",
         "packagesPath": "C:\\Users\\AMIN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\AMIN\\source\\repos\\FBAS_4217_RU-ASP\\Projects\\FluentValidation\\FluentValidation\\obj\\",
+        "outputPath": "C:\\Users\\AMIN\\source\\repos\\FluentValidation\\FluentValidation\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
